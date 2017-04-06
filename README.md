@@ -1,4 +1,4 @@
-### docker-centos7-modwsgi
+# docker-centos7-modwsgi
 
 This repo contains a Dockerfile for Apache + modwsgi on CentOS 7.
 
