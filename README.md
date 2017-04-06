@@ -5,7 +5,7 @@ This repo contains a Dockerfile for Apache + modwsgi on CentOS 7.
 ## Build
 
 ```
-# docker build --rm -t <username>/centos7-modwsgi .
+# docker build --rm -t knzm/centos7-modwsgi .
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ This repo contains a Dockerfile for Apache + modwsgi on CentOS 7.
 To run (if port 8000 is available and open on your host):
 
 ```
-# docker run -p 8000:80 -d <username>/centos7-modwsgi
+# docker run -p 8000:80 -d knzm/centos7-modwsgi
 ```
 
 ## Test
